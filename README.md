@@ -27,3 +27,8 @@ fi
 
 cmake --build build --target install
 ```
+
+## Downloads
+
+### 11.1.0
+https://dubox.com/s/1DPMPqHq6Ox-mISiNfpDkwg Code: `8hxs`
