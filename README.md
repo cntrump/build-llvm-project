@@ -31,4 +31,9 @@ cmake --build build --target install
 ## Downloads
 
 ### 11.1.0
-https://dubox.com/s/1DPMPqHq6Ox-mISiNfpDkwg Code: `8hxs`
+
+Link: https://dubox.com/s/1DPMPqHq6Ox-mISiNfpDkwg
+
+Code: `8hxs`
+
+SHA256: `433195766f921ad504c7d9dcbd4dce1303bac9172ae82f57f111240c403dd800`
