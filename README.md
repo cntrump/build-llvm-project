@@ -1,6 +1,6 @@
 # build-llvm-project
 
-llvm project build shell script for macOS
+[llvm project](https://github.com/llvm/llvm-project) build shell script for macOS
 
 ```zsh
 #!/usr/bin/env zsh
